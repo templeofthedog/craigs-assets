@@ -1,0 +1,10 @@
+#+AUTHOR: Craig Carley
+#+TITLE: Craig's Assets
+#+DATE: Summer 2016
+#+EMAIL: ccarley@gmail.com
+
+* PREFACE
+* PHILOSOPHY
+* PROGRAMMING
+* TEACHING
+* MOLDMAKING
