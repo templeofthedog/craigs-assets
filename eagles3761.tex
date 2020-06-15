@@ -1,0 +1,364 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% MDM Poster Template
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a0,landscape]{a0poster}
+
+%\input{fitch.sty}
+
+% The name of the package, capitalized or not.
+\def\QT{\textsf{\emph{Qtree}}}
+\def\Qt{\textsf{\emph{qtree}}}
+\def\pstyle#1{\textsf{#1}} % style filenames
+\def\argplain#1{\textit{$\langle$#1$\rangle$}} % Like \marg, but without { }
+
+\usepackage{qtree}
+
+\usepackage{multicol} % This is so we can have multiple columns of text side-by-side
+\columnsep=100pt % This is the amount of white space between the columns in the poster
+\columnseprule=3pt % This is the thickness of the black line between the columns in the poster
+
+\usepackage[svgnames]{xcolor} % Specify colors by their 'svgnames', for a full list of all colors available see here: http://www.latextemplates.com/svgnames-colors
+
+\usepackage{hyperref}
+
+%\usepackage{times} % Use the times font
+\usepackage{palatino} % Uncomment to use the Palatino font
+
+\usepackage{graphicx} % Required for including images
+\graphicspath{{figures/}} % Location of the graphics files
+\usepackage{booktabs} % Top and bottom rules for table
+\usepackage[font=small,labelfont=bf]{caption} % Required for specifying captions to tables and figures
+\usepackage{amsfonts, amsmath, amsthm, amssymb} % For math fonts, symbols and environments
+\usepackage{wrapfig} % Allows wrapping text around tables and figures
+
+\usepackage{tikz}
+\usetikzlibrary{graphs}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	POSTER HEADER 
+%----------------------------------------------------------------------------------------
+
+% The header is divided into three boxes:
+% The first is 55% wide and houses the title, subtitle, names and university/organization
+% The second is 25% wide and houses contact information
+% The third is 19% wide and houses a logo for your university/organization or a photo of you
+% The widths of these boxes can be easily edited to accommodate your content as you see fit
+
+\begin{minipage}[b]{0.55\linewidth}
+\veryHuge \color{NavyBlue} \textbf{Lake Eagles 3761} \color{Black}\\ % Title
+\Huge\textit{  Notebook  }\\[1cm] % Subtitle
+\huge \textbf{
+Food \& Beverages \\ 
+Bar, Keno \& Pull-tabs Drawers\\
+Maintenance }\\ % Author(s)
+\end{minipage}
+%
+\begin{minipage}[b]{0.25\linewidth}
+\color{DarkSlateGray}\Large \textbf{Contact Information}\\
+Lake Eagles Aerie \# 3761 FOE\\ % Address
+8460 W. Ludington Drive \\
+Lake, MI 48632 \\
+Phone: 989-544-3761 \\ % Phone number
+Website: \texttt{https://3761.mifoe.com/}\\ % Email address
+\end{minipage}
+%
+\begin{minipage}[b]{0.19\linewidth}
+\includegraphics[width=20cm]{images/the_club2b} % Logo or a photo of you, adjust its dimensions here
+\end{minipage}
+
+\vspace{1cm} % A bit of extra whitespace between the header and poster content
+
+%----------------------------------------------------------------------------------------
+
+\begin{multicols}{4} % This is how many columns your poster will be broken into, a poster with many figures may benefit from less columns whereas a text-heavy poster benefits from more
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+%\color{Navy} % Navy color for the abstract
+%
+%\begin{abstract}
+%
+%\begin{center}
+%\begin{tabular}{ l l }
+%
+%\hline
+%Customer & Con-Met Canton\\
+%Part Name & Rear Shelf Outer\\
+%Part Number & 69094-000\\
+%Shrink & 1.009\\
+%Mold Weight & \\
+%Mold Size & x, y, z \\
+%\hline
+%\end{tabular}
+%\end{center}
+%
+%\end{abstract}
+
+%----------------------------------------------------------------------------------------
+%	New Work Feasibility Studies 
+%----------------------------------------------------------------------------------------
+
+\color{SaddleBrown} % SaddleBrown color for the introduction
+
+\section*{Food}
+\subsection*{Menu}
+\begin{center}
+\begin{tabular}{ l r | l r}
+Grilled Cheese & \$2.00 & Mozzarella Sticks & \$4.00 \\
+Grilled Cheese w/ ham & \$4.00 & Jalapeño Poppers & \$4.50 \\
+Hot Dog & \$2.50 & Mushrooms & \$4.50 \\
+Coney Dog & \$3.00 & Cauliflower & \$4.50 \\
+Fish Sandwich & \$4.50 & Onion Rings & \$3.00 \\
+Chicken Strips & \$5.25 & French Fries & \$2.50 \\
+Chicken Sandwich & \$4.50 & Curly Fries & \$2.50 \\
+Wing Dings & \$4.75 & Tater Tots & \$2.50 \\
+Popcorn Chicken & \$4.25 & &\\
+Hamburger & \$4.00 & (50 cents off on baskets) & \\
+Hamburger w/ cheese & \$4.50 & & \\
+Dbl Hamburger & \$6.00 & & \\
+Dbl Hamburger w/ cheese & \$6.50 & & \\
+Philly Cheese Steak & \$5.00 & & \\
+Boneless Wings & \$5.00 & & \\
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\subsection*{Mexican Wednesday}
+\begin{center}
+\begin{tabular}{ l r }
+Wet Burrito & \$7.50 \\
+Taco Salad in edible bowl & \$7.50 \\
+Nacho Plate & \$7.50 \\
+Taco (soft or hard shell) & \$2.00 \\
+Chips and Salsa & \$3.00 \\
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+All meals include lettuce, onion, green pepper, tomato and shredded cheese. Sour cream, salsa (hot,med,mild), and jalapeno available on request.
+
+
+\subsection*{Fish Friday}
+\begin{center}
+\begin{tabular}{ l r }
+Cup of Soup & \$2.00 \\ 
+Soup and Salad Bar & \$7.00 \\
+3-Piece Cod Dinner (1/2 lb) & \$9.00 \\
+All-You-Can-Eat Cod Dinner & \$11.00 \\
+10-Piece Bluegill Dinner (1/2 lb) & \$11.00 \\
+3-Piece Walleye Dinner (3/4 lb) & \$11.00 \\
+8-Piece Shrimp Dinner (1/2 lb) & \$9.00 \\
+Shrimp / Cod Combo Dinner & \$9.00 \\
+Seafood Platter & \$15.00 \\
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+All dinners include choice of potato and our soup and salad bar.
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVES
+%----------------------------------------------------------------------------------------
+
+\color{DarkSlateGray} % DarkSlateGray color for the rest of the content
+
+\section*{Beverages}
+
+\begin{center}
+\begin{tabular}{ l r }
+16oz Draft & \$1.25 \\
+24oz Draft & \$2.00 \\
+Cold Pitcher & \$5.00 \\
+Domestic Beer & \$2.00 \\
+Domestic Bucket (6 cans) & \$10.00 \\
+Corona & \$2.50 \\
+Ciderboys & \$2.50 \\
+Wine & \$2.75 \\
+Coffee & \$0.50 \\
+Bottled Water & \$1.00 \\
+Iced Tea & \$1.00 \\
+Juice & \$1.00 \\
+Pop & \$1.25 \\
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\noindent \textsc{Draft Beer} \\
+Budweiser, Bud Light, Miller Lite, \& Busch Light \\
+
+\noindent \textsc {Canned Beer} \\
+Busch Light, Budweiser, Bud Light, Miller Lite, Miller High Life, Miller Select 64, Coors Light, Michelob Ultra, Michelob Light, PBR, Corona Light, \& Corona Extra. \\
+
+\noindent \textsc{Liquor} \\
+
+\begin{center}
+\begin{tabular}{ l r }
+Top Shelf & \$3.50 \\
+Mid Shelf & \$2.75 \\
+Bottom Shelf & \$2.50 \\
+\end{tabular}
+\end{center}
+
+Christian Brother's Brandy, Gordon's Gin, Amaretto, Blackberry Brandy, Buttershots, Cranberry, Ginger, Grape Pucker, Kahlua, Kessler, Midori Melon Liqueur, Peachtree, Peppermint Schnapps, Sloe Gin, Bacardi, Bacardi Limon, Captain Morgan, Malibu Rum, Lauder's Scotch, Jose Cuervo, Mohawk Vodka, Tito's Vodka, UV Blue Vodka, Black Velvet, Canadian Club, Canadian Mist, Crown Royal, Crown Royal Apple, J\&B, Jack Daniels, Jack Daniels Fire, Jameson, Jim Beam, Jim Beam Red Stag, Maker's Mark, McMaster's Canadian, Old Crow, Seagram's 7, Seagram’s VO, Southern Comfort,
+
+\vspace{1cm}
+
+\textsc{Wines \& Coolers}
+
+
+%----------------------------------------------------------------------------------------
+%	MATERIALS AND METHODS
+%----------------------------------------------------------------------------------------
+
+\color{DarkGreen}
+\section*{Suppliers \& Inventory}
+
+Fusce magna risus, molestie ut porttitor in, consectetur sed mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque consectetur blandit pellentesque. Sed odio justo, viverra nec porttitor vel, lacinia a nunc. Suspendisse pulvinar euismod arcu, sit amet accumsan enim fermentum quis. In id mauris ut dui feugiat egestas. Vestibulum ac turpis lacinia nisl commodo sagittis eget sit amet sapien. Phasellus imperdiet, tortor vitae congue bibendum, felis enim sagittis lorem, et volutpat ante orci sagittis mi. Morbi rutrum laoreet semper. Morbi accumsan enim nec tortor consectetur non commodo nisi sollicitudin. Proin sollicitudin. Pellentesque eget orci eros. Fusce ultricies, tellus et pellentesque fringilla, ante massa luctus libero, quis tristique purus urna nec nibh. Proin sollicitudin. Pellentesque eget orci eros. Fusce ultricies, tellus et pellentesque fringilla, ante massa luctus libero, quis tristique purus urna nec nibh.
+
+%------------------------------------------------
+
+\subsection*{Mathematical Section}
+
+Nulla vel nisl sed mauris auctor mollis non sed. 
+
+\begin{equation}
+E = mc^{2}
+\label{eqn:Einstein}
+\end{equation}
+
+Curabitur mi sem, pulvinar quis aliquam rutrum. (1) edf (2)
+, $\Omega=[-1,1]^3$, maecenas leo est, ornare at. $z=-1$ edf $z=1$ sed interdum felis dapibus sem. $x$ set $y$ ytruem. 
+Turpis $j$ amet accumsan enim $y$-lacina; 
+ref $k$-viverra nec porttitor $x$-lacina. 
+
+Vestibulum ac diam a odio tempus congue. Vivamus id enim nisi:
+
+\begin{eqnarray}
+\cos\bar{\phi}_k Q_{j,k+1,t} + Q_{j,k+1,x}+\frac{\sin^2\bar{\phi}_k}{T\cos\bar{\phi}_k} Q_{j,k+1} &=&\nonumber\\ 
+-\cos\phi_k Q_{j,k,t} + Q_{j,k,x}-\frac{\sin^2\phi_k}{T\cos\phi_k} Q_{j,k}\label{edgek}
+\end{eqnarray}
+and
+\begin{eqnarray}
+\cos\bar{\phi}_j Q_{j+1,k,t} + Q_{j+1,k,y}+\frac{\sin^2\bar{\phi}_j}{T\cos\bar{\phi}_j} Q_{j+1,k}&=&\nonumber \\
+-\cos\phi_j Q_{j,k,t} + Q_{j,k,y}-\frac{\sin^2\phi_j}{T\cos\phi_j} Q_{j,k}.\label{edgej}
+\end{eqnarray} 
+
+Nulla sed arcu arcu. Duis et ante gravida orci venenatis tincidunt. Fusce vitae lacinia metus. Pellentesque habitant morbi. $\mathbf{A}\underline{\xi}=\underline{\beta}$ Vim $\underline{\xi}$ enum nidi $3(P+2)^{2}$ lacina. Id feugain $\mathbf{A}$ nun quis; magno. Fusce convallis rutrum turpis, quis aliquet enim accumsan id. Vestibulum ullamcorper porttitor convallis. Integer sagittis interdum malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed adipiscing tristique orci at ullamcorper. Morbi accumsan, urna et porttitor pulvinar, lacus risus dignissim massa. Proin sollicitudin. Pellentesque eget orci eros. Fusce ultricies, tellus et pellentesque fringilla, ante massa luctus libero, quis tristique purus urna nec nibh.
+
+%----------------------------------------------------------------------------------------
+%	RESULTS 
+%----------------------------------------------------------------------------------------
+
+\section*{Results}
+
+Donec faucibus purus at tortor egestas eu fermentum dolor facilisis. Maecenas tempor dui eu neque fringilla rutrum. Mauris \emph{lobortis} nisl accumsan. Aenean vitae risus ante. Pellentesque condimentum dui. Etiam sagittis purus non tellus tempor volutpat. Donec et dui non massa tristique adipiscing.
+%
+\begin{wraptable}{l}{12cm} % Left or right alignment is specified in the first bracket, the width of the table is in the second
+\begin{tabular}{l l l}
+\toprule
+\textbf{Treatments} & \textbf{Response 1} & \textbf{Response 2}\\
+\midrule
+Treatment 1 & 0.0003262 & 0.562 \\
+Treatment 2 & 0.0015681 & 0.910 \\
+Treatment 3 & 0.0009271 & 0.296 \\
+\bottomrule
+\end{tabular}
+\captionof{table}{\color{Green} Table caption}
+\end{wraptable}
+%
+Phasellus imperdiet, tortor vitae congue bibendum, felis enim sagittis lorem, et volutpat ante orci sagittis mi. Morbi rutrum laoreet semper. Morbi accumsan enim nec tortor consectetur non commodo nisi sollicitudin. Proin sollicitudin. Pellentesque eget orci eros. Fusce ultricies, tellus et pellentesque fringilla, ante massa luctus libero, quis tristique purus urna nec nibh.
+
+Nulla ut porttitor enim. Suspendisse venenatis dui eget eros gravida tempor. Mauris feugiat elit et augue placerat ultrices. Morbi accumsan enim nec tortor consectetur non commodo. Pellentesque condimentum dui. Etiam sagittis purus non tellus tempor volutpat. Donec et dui non massa tristique adipiscing. Quisque vestibulum eros eu. Phasellus imperdiet, tortor vitae congue bibendum, felis enim sagittis lorem, et volutpat ante orci sagittis mi. Morbi rutrum laoreet semper. Morbi accumsan enim nec tortor consectetur non commodo nisi sollicitudin.
+
+\begin{center}\vspace{1cm}
+
+\includegraphics[width=0.8\linewidth]{images/the_club2b}
+
+\captionof{figure}{\color{Green} Figure caption}
+
+\end{center}\vspace{1cm}
+
+In hac habitasse platea dictumst. Etiam placerat, risus ac.
+
+Adipiscing lectus in magna blandit:
+
+\begin{center}\vspace{1cm}
+\begin{tabular}{l l l l}
+\toprule
+\textbf{Treatments} & \textbf{Response 1} & \textbf{Response 2} \\
+\midrule
+Treatment 1 & 0.0003262 & 0.562 \\
+Treatment 2 & 0.0015681 & 0.910 \\
+Treatment 3 & 0.0009271 & 0.296 \\
+\bottomrule
+\end{tabular}
+\captionof{table}{\color{Green} Table caption}
+\end{center}\vspace{1cm}
+
+Vivamus sed nibh ac metus tristique tristique a vitae ante. Sed lobortis mi ut arcu fringilla et adipiscing ligula rutrum. Aenean turpis velit, placerat eget tincidunt nec, ornare in nisl. In placerat.
+
+\begin{center}\vspace{1cm}
+\includegraphics[width=0.8\linewidth]{images/the_club2b}
+\captionof{figure}{\color{Green} Figure caption}
+\end{center}\vspace{1cm}
+
+%----------------------------------------------------------------------------------------
+%	CONCLUSIONS
+%----------------------------------------------------------------------------------------
+
+\color{SaddleBrown} % SaddleBrown color for the conclusions to make them stand out
+
+\section*{Conclusions}
+
+\begin{itemize}
+\item Pellentesque eget orci eros. Fusce ultricies, tellus et pellentesque fringilla, ante massa luctus libero, quis tristique purus urna nec nibh. Phasellus fermentum rutrum elementum. Nam quis justo lectus.
+\item Vestibulum sem ante, hendrerit a gravida ac, blandit quis magna.
+\item Donec sem metus, facilisis at condimentum eget, vehicula ut massa. Morbi consequat, diam sed convallis tincidunt, arcu nunc.
+\item Nunc at convallis urna. isus ante. Pellentesque condimentum dui. Etiam sagittis purus non tellus tempor volutpat. Donec et dui non massa tristique adipiscing.
+\end{itemize}
+
+\color{DarkSlateGray} % Set the color back to DarkSlateGray for the rest of the content
+
+%----------------------------------------------------------------------------------------
+%	FORTHCOMING RESEARCH
+%----------------------------------------------------------------------------------------
+
+\section*{Forthcoming Research}
+
+Vivamus molestie, risus tempor vehicula mattis, libero arcu volutpat purus, sed blandit sem nibh eget turpis. Maecenas rutrum dui blandit lorem vulputate gravida. Praesent venenatis mi vel lorem tempor at varius diam sagittis. Nam eu leo id turpis interdum luctus a sed augue. Nam tellus.
+
+ %----------------------------------------------------------------------------------------
+%	REFERENCES
+%----------------------------------------------------------------------------------------
+
+\nocite{*} % Print all references regardless of whether they were cited in the poster or not
+\bibliographystyle{plain} % Plain referencing style
+\bibliography{sample} % Use the example bibliography file sample.bib
+
+%----------------------------------------------------------------------------------------
+%	ACKNOWLEDGEMENTS
+%----------------------------------------------------------------------------------------
+
+\section*{Acknowledgements}
+
+Etiam fermentum, arcu ut gravida fringilla, dolor arcu laoreet justo, ut imperdiet urna arcu a arcu. Donec nec ante a dui tempus consectetur. Cras nisi turpis, dapibus sit amet mattis sed, laoreet.
+
+%----------------------------------------------------------------------------------------
+
+\end{multicols}
+\end{document}
