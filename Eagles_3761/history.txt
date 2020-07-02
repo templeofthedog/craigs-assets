@@ -1,0 +1,1016 @@
+<div class="wrapper" canvas="containers">
+
+<div class="body">
+
+<div id="SkipContent">
+
+</div>
+
+<div class="header-body">
+
+<div class="header-container container">
+
+<div class="header-row">
+
+<div class="header-column">
+
+<div class="header-row">
+
+<div class="logo">
+
+[![Fraternal Order of
+Eagles](/Portals/0/Images/FOE_Script_Logo.jpg?ver=2016-03-22-160246-093){#dnn_LOGO1_imgLogo}](https://www.foe.com/ "Fraternal Order of Eagles"){#dnn_LOGO1_hypLogo}
+
+</div>
+
+</div>
+
+</div>
+
+<div class="header-column justify-content-end">
+
+<div class="header-row header-nav">
+
+<div class="gtranslator">
+
+</div>
+
+<div class="language">
+
+<div class="language-object">
+
+</div>
+
+</div>
+
+<div id="login">
+
+<div id="dnn_dnnUser_registerGroup" class="registerGroup">
+
+-   [Register](https://www.foe.com/Home/FOE-Registration-Page?returnurl=https%3a%2f%2fwww.foe.com%2fAbout-The-Eagles%2fHistory){#dnn_dnnUser_enhancedRegisterLink}
+
+</div>
+
+<div id="dnn_dnnLogin_loginGroup" class="loginGroup">
+
+[Login](https://www.foe.com/Login?returnurl=%2fAbout-The-Eagles%2fHistory){#dnn_dnnLogin_enhancedLoginLink
+.LoginLink}
+
+</div>
+
+</div>
+
+<div class="search">
+
+<div class="input-group">
+
+[ [ []{.dnnSearchBoxClearText} ]{.searchInputContainer
+data-moreresults="See More Results" data-noresult="No Results Found"}
+[ ](javascript:__doPostBack('dnn$dnnSearch$cmdSearch','')){#dnn_dnnSearch_cmdSearch
+.icon-search} ]{#dnn_dnnSearch_ClassicSearch}
+
+</div>
+
+</div>
+
+</div>
+
+<div class="header-row header-nav-main">
+
+<div class="header-nav-main-effect">
+
+<div class="navbar-collapse nav-main-collapse collapse">
+
+-   [About The Eagles](javascript:void(0)){.dropdown-toggle}
+    -   [Join](https://www.foe.com/About-The-Eagles/Join)
+    -   [Who We Are](https://www.foe.com/About-The-Eagles/Who-We-Are)
+    -   [Those Who
+        Serve](https://www.foe.com/About-The-Eagles/Those-Who-Serve)
+    -   [Member
+        Benefits](https://www.foe.com/About-The-Eagles/Member-Benefits)
+    -   [History](https://www.foe.com/About-The-Eagles/History)
+    -   [Grand Presidents](https://www.foe.com/GrandPresidents)
+    -   [120 Years](https://www.foe.com/About-The-Eagles/120-Years)
+    -   [Careers](https://www.foe.com/About-The-Eagles/Careers)
+    -   [Aerie
+        Locator](https://www.foe.com/About-The-Eagles/Aerie-Locator)
+    -   [Mother's Day](https://www.foe.com/About-The-Eagles/Mothers-Day)
+-   [News](https://www.foe.com/News/Latest-News){.dropdown-toggle}
+    -   [Latest News](https://www.foe.com/News/Latest-News)
+    -   [Soar](https://www.foe.com/News/Soar)
+    -   [Convention](https://www.foe.com/News/Convention)
+    -   [Blog](https://www.foe.com/News/Blog)
+    -   [Media Support](https://www.foe.com/News/Media-Support)
+    -   [People Helping
+        People](https://www.foe.com/News/People-Helping-People)
+-   [Charities](javascript:void(0)){.dropdown-toggle}
+    -   [Donate](https://www.foe.com/Charities/Donate)
+    -   [F.O.E. Charity
+        Foundation](https://www.foe.com/Charities/FOE-Charity-Foundation)
+    -   [Diabetes Research
+        Center](https://www.foe.com/Charities/Diabetes-Research-Center)
+    -   [Bridge to the
+        Cure](https://www.foe.com/Charities/Bridge-to-the-Cure)
+    -   [Memorial
+        Foundation](https://www.foe.com/Charities/Memorial-Foundation)
+    -   [Eagle Village](https://www.foe.com/Charities/Eagle-Village)
+    -   [Ekso Project](https://www.foe.com/Charities/Ekso-Project)
+    -   [People Helping
+        Pantries](https://www.foe.com/Charities/People-Helping-Pantries)
+    -   [Requesting
+        Grants](https://www.foe.com/Charities/Requesting-Grants)
+-   [Programs](javascript:void(0)){.dropdown-toggle}
+    -   [NASCAR](https://www.foe.com/Programs/NASCAR)
+    -   [Operation Eagle](https://www.foe.com/Programs/Operation-Eagle)
+    -   [God, Flag &
+        Country](https://www.foe.com/Programs/God-Flag-Country)
+    -   [Children's Day](https://www.foe.com/Programs/Childrens-Day)
+    -   [Children's Art
+        Contest](https://www.foe.com/Programs/Childrens-Art-Contest)
+    -   [Sports](https://www.foe.com/Programs/Sports)
+    -   [Bulletin
+        Contest](https://www.foe.com/Programs/Bulletin-Contest)
+-   [Contact](https://www.foe.com/Grand-Aerie)
+-   [Members-Only](https://www.foe.com/Members-Only)
+-   [Store](https://the-fraternal-order-of-eagles-store.myshopify.com/)
+
+</div>
+
+</div>
+
+<div class="social-icons">
+
+-   [Facebook](http://www.facebook.com/FOEGrandAerie "Facebook")
+-   [Twitter](http://www.twitter.com/FOEGrandAerie "Twitter")
+-   [Instagram](http://www.instagram.com/foegrandaerie "instagram")
+-   [Flickr](http://www.flickr.com/GrandAerieFOE "flickr")
+-   [YouTube](http://www.youtube.com/foegrandaerie "youtube")
+
+</div>
+
+**[Search Button]{.btn-text-indent}
+**[Button]{.btn-text-indent}
+<div class="search-block collapse">
+
+[ [ []{.dnnSearchBoxClearText} ]{.searchInputContainer
+data-moreresults="See More Results" data-noresult="No Results Found"}
+[ ](javascript:__doPostBack('dnn$MiniSearch1$cmdSearch','')){#dnn_MiniSearch1_cmdSearch
+.icon-search} ]{#dnn_MiniSearch1_ClassicSearch}
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="main" role="main">
+
+<div class="section page-top basic">
+
+<div class="page-top-info container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+-   [[[[About The Eagles]{itemprop="name"}]{itemprop="itemListElement"
+    itemscope="" itemtype="http://schema.org/ListItem"} /
+    [[[History]{itemprop="name"}](https://www.foe.com/About-The-Eagles/History)]{itemprop="itemListElement"
+    itemscope="" itemtype="http://schema.org/ListItem"}]{itemscope=""
+    itemtype="http://schema.org/BreadcrumbList"}]{#dnn_dnnBreadcrumb2_lblBreadCrumb
+    itemprop="breadcrumb" itemscope=""
+    itemtype="https://schema.org/breadcrumb"}
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-12">
+
+History
+=======
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="dnn_ContentPaneFull" class="DNNEmptyPane">
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_contentPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="dnn_TopPaneFull" class="DNNEmptyPane">
+
+</div>
+
+<div id="dnn_TopUpperPaneFull" class="DNNEmptyPane">
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_TopPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="dnn_TopLowerPaneFull" class="DNNEmptyPane">
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-3">
+
+<div id="dnn_TopLeftSidebar" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-9">
+
+<div id="dnn_TopLeftSidebarOuter" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-9">
+
+<div id="dnn_TopRightSidebarOuter">
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-1301">
+
+[]{#1301}
+<div id="dnn_ctr1301_ContentPane">
+
+<div id="dnn_ctr1301_ModuleContent"
+class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr1301_HtmlModule_lblContent" class="Normal">
+
+How It **Began**
+----------------
+
+![](/portals/0/images/history/foundingfathers.jpg)
+
+On February 6, 1898, six of Seattle's most prominent theater owners
+gathered to discuss how to handle an ongoing musicians' strike. John
+Cort, brothers John W. and Thomas J. Considine, H.L. Leavitt, Mose
+Goldsmith and Arthur G. Williams headed down to the Moran Brothers'
+shipyard on South Charles Street to make a plan. According to most
+popular accounts, after deciding to work together to settle the strike
+by using piano players to replace the musicians, the men began to
+discuss life. At that moment, the Order of Good Things was born.
+
+As their numbers grew, the Order chose the Bald Eagles as their official
+emblem and changed the name of the organization to "The Fraternal Order
+of Eagles, with a goal to "make human life more desirable by lessening
+its ills and promoting peace, prosperity, gladness and hope."
+
+Touring theater troupes are credited with much of the Eagles' early
+growth. Most members were actors, stagehands and playwrights who carried
+the Eagles story from town to town as they traversed the United States
+and Canada. The group's early motto, "Skin'em," became the secret
+password to identify members while the official motto was changed to
+"Liberty, Truth, Justice and Equality."
+
+Within 10 years of its inception, the organization boasted more than
+1,800 Aeries scattered throughout the United States, Canada and Mexico
+with a membership exceeding 350,000. Members received free medical
+attention for themselves and their families, weekly payments in case of
+sickness and a funeral benefit - all valuable services before the
+widespread availability of medical, disability and life insurance.
+
+The organization quickly became a leader in influencing national
+politics, pushing to create Mother's Day and eventually Social Security,
+Medicare and more. The Eagles' growing membership, comprised of many
+prominent local figures, held a position of great influence in
+communities everywhere. 
+
+The Birth Of An **Auxiliary**
+-----------------------------
+
+![](/portals/0/images/history/firstGA.jpg){width="200"}
+
+For years, women were accompanying male members of the Order to social
+events. As early as 1914, women were in attendance for the
+organization's Grand Aerie Convention, eventually inspiring them to
+being their own wing of the Eagles - the Ladies' Auxiliary.
+
+Pressure increased to formally recognize the Auxiliary and in January
+1926, sitting Grand Worthy President Charles C. Guenther issued an
+Official Circular explaining that the time had come for definite action
+in regard to the formal creation of the Auxiliary.
+
+When the Eagles assembled for the 28th annual Grand Aerie Convention in
+August 1926, delegates formally approved the formation of the Ladies'
+Auxiliary. On August 14, 1952, Past Grand Worthy President Lester Loble
+of Montana served as the instituting deputy for the Grand Auxiliary.
+Because Alta Browning Smith was a primary contributor in the organizing
+and instituting of the Grand Auxiliary, she was appointed the first
+Grand Madam President. 
+
+Making A **Difference**
+-----------------------
+
+![](/portals/0/images/history/giving.jpg)
+Since the beginning, the F.O.E. has maintained a strong dedication to
+giving back to the communities housing our Aeries and Auxiliaries. Armed
+with a strong Grand Aerie and Grand Auxiliary, the organization reached
+its full potential. In 1954, nearly 10,000 Ten Commandments plaques were
+distributed by the Order, promoting its foundation of faith and
+encouraging citizens to use the Commandments as a guideline for treating
+others and building a stronger community. 
+
+Eagles continued their commitment to helping their own through the
+Memorial Foundation, which was designed to provide aid to the children
+of members who lost their lives in World War II. In 1967, the Jimmy
+Durante Children's Fund was established, providing financial aid to
+institutions aiming to help youth through medical research and
+prevention programs. 
+
+The Charity Foundation continued to grow, establishing separate funds
+for a variety of causes as they became more prominent, ensuring all
+brothers and sisters facing illness could have hope for care and a
+cure. 
+
+In 1985, blooming from a strong relationship with member and entertainer
+Danny Thomas, the Eagles became the first organization to top \$1
+million in donations to St. Jude's Children's Research Hospital. 
+
+The Eagles took on their biggest fundraising challenge in 2008,
+committing \$25 million to the University of Iowa to fund The Fraternal
+Order of Eagles Diabetes Research Center, which opened in August 2014
+inside the John and Mary Pappajohn Biomedical Discovery Building in Iowa
+City, Iowa. The 20,000-square-foot facility hosts a team of more than
+100 researchers working on ways to prevent, treat and ultimately cure
+diabetes. 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_TopRightSidebar">
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-1302">
+
+[]{#1302}
+<div id="dnn_ctr1302_ContentPane">
+
+<div id="dnn_ctr1302_ModuleContent"
+class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr1302_HtmlModule_lblContent" class="Normal">
+
+Time**line**
+------------
+
+#### 1898
+
+Order of Good Things is established, later becoming The Fraternal Order
+of Eagles
+
+#### 1904
+
+Eagles make the first public plea for Mother's Day
+
+#### 1927
+
+Creation and formation of the first Ladies' Auxiliary
+
+#### 1935
+
+Eagles played prominent role in the passing of the Social Security Act
+
+#### 1944
+
+Eagles' Memorial Foundation established
+
+#### 1952
+
+Eagles' Grand Auxiliary formally instituted
+
+#### 1954
+
+Eagles distribute nearly 10,000 Ten Commandments plaques
+
+#### 1957
+
+Nationwide Jobs After 40 program enacted with help of Eagles
+
+#### 1961
+
+Eagles create Eagle Village - a living community for senior members of
+the Order in Bradenton, Fla.
+
+#### 1985
+
+Eagles become first organization to top \$1 million in donations to St.
+Jude's Children's Research Hospital
+
+#### 1991
+
+Members start Eagle Drive to support troops serving in Operation Desert
+Storm with mail and food packages
+
+#### 1995
+
+Eagles donated \$50,000 for the Eagle Alcove of the Franklin D.
+Roosevelt Memorial in Washington, D.C.
+
+#### 2002
+
+F.O.E. Grand Aerie Headquarters opens in Grove City, Ohio
+
+#### 2006
+
+Members work with local government leaders to keep "under God" in the
+Pledge of Allegiance
+
+#### 2008
+
+Eagles pledge \$25 million to create The Fraternal Order of Eagles
+Diabetes Research Center at the University of Iowa
+
+#### 2014
+
+The Fraternal Order of Eagles Diabetes Research Center officially opens
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-3">
+
+<div id="dnn_TopLeftOuter" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_TopLeftInner" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_TopRightInner" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_TopRightOuter" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+<div id="dnn_TopLeftPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_TopMiddlePane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_TopRightPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="dnn_MiddlePaneFull" class="DNNEmptyPane">
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_MiddlePane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-3">
+
+<div id="dnn_LeftShortPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-6">
+
+<div id="dnn_CenterPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_RightShortPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-8">
+
+<div id="dnn_RightSidebarOuter" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_RightSidebar" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+<div id="dnn_LeftSidebar" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-8">
+
+<div id="dnn_LeftSidebarOuter" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-6">
+
+<div id="dnn_LeftPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-6">
+
+<div id="dnn_RightPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+<div id="dnn_BottomLeftPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_BottomCenterPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_BottomRightPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_ContentLowerPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_BottomPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="dnn_BottomPaneFull" class="DNNEmptyPane">
+
+</div>
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_FooterTop" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-6">
+
+<div id="dnn_FooterLeft" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-6">
+
+<div id="dnn_FooterRight" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+<div id="dnn_FooterLeftPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_FooterCenterPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div id="dnn_FooterRightPane" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-3">
+
+<div id="dnn_FooterLeftOuter">
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-420">
+
+[]{#420}
+#### [Newsletter]{#dnn_ctr420_dnnTITLE_titleLabel .Head}
+
+<div id="dnn_ctr420_ContentPane">
+
+<div id="dnn_ctr420_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr420_HtmlModule_lblContent" class="Normal">
+
+Enter your e-mail and subscribe to our newsletter.
+
+### [[Sign Up Now!]{style="color:#ffffff;"}](https://visitor.r20.constantcontact.com/d.jsp?llr=jga868cab&p=oi&m=1102596374729&sit=8fqhfogeb&f=310e5b3e-6bc9-499c-ba1e-7a0d9bc80631)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clearfix">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_FooterLeftInner">
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-419">
+
+[]{#419}
+#### [About Our Company]{#dnn_ctr419_dnnTITLE_titleLabel .Head}
+
+<div id="dnn_ctr419_ContentPane">
+
+<div id="dnn_ctr419_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr419_HtmlModule_lblContent" class="Normal">
+
+The Fraternal Order of Eagles, an international nonprofit organization,
+unites fraternally in the spirit of liberty, truth, justice and
+equality, to make human life more desirable by lessening its ills, and
+by promoting peace, prosperity, gladness and hope.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clearfix">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_FooterRightInner">
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-415">
+
+[]{#415}
+#### [Get in touch]{#dnn_ctr415_dnnTITLE_titleLabel .Head}
+
+<div id="dnn_ctr415_ContentPane">
+
+<div id="dnn_ctr415_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr415_HtmlModule_lblContent" class="Normal">
+
+<div class="contact-details">
+
+-   ****Address:** 1623 Gateway Circle South, Grove City, OH 43123
+
+-   ****Phone:** (614) 883-2200
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clearfix">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+<div id="dnn_FooterRightOuter">
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-416">
+
+[]{#416}
+#### [Follow Us]{#dnn_ctr416_dnnTITLE_titleLabel .Head}
+
+<div id="dnn_ctr416_ContentPane">
+
+<div id="dnn_ctr416_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr416_HtmlModule_lblContent" class="Normal">
+
+<div class="social-icons">
+
+-   [Facebook](http://www.facebook.com/FOEGrandAerie "Facebook")
+-   [Twitter](http://www.twitter.com/FOEGrandAerie "Twitter")
+-   [Instagram](http://www.instagram.com/foegrandaerie "instagram")
+-   [Flickr](http://www.flickr.com/GrandAerieFOE "flickr")
+-   [YouTube](http://www.youtube.com/foegrandaerie "youtube")
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clearfix">
+
+</div>
+
+</div>
+
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-1340">
+
+[]{#1340}
+<div id="dnn_ctr1340_ContentPane">
+
+<div id="dnn_ctr1340_ModuleContent"
+class="DNNModuleContent ModDNNHTMLC">
+
+<div id="dnn_ctr1340_HtmlModule_lblContent" class="Normal">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div id="dnn_FooterBottom" class="DNNEmptyPane">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footer-copyright">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+[©]{.copyright} [Copyright 2020 Fraternal Order of
+Eagles]{#dnn_dnnCopyright_lblCopyright .copyright} [Terms Of
+Use](https://www.foe.com/Terms){#dnn_dnnTerms_hypTerms .terms} [Privacy
+Statement](https://www.foe.com/Privacy){#dnn_dnnPrivacy_hypPrivacy
+.privacy}
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="layout_trigger">
+
+</div>
+
+</div>
+
+</div>

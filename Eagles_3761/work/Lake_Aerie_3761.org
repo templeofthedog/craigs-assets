@@ -1,0 +1,121 @@
+#+TITLE: Lake Eagles 3761 Guide
+#+AUTHORS: BOT
+#+DATE: 2020
+
+
+* Operations
+
+** Daily Procedures
+
+*** Opening
++ Unlock Main Entrance and Disarm Alarm.
++ Turn on Lights and Keno Boards.
++ Check bathroom paper towels, toilet paper and trash.
++ Fill Ice Caddie at bar and add ice to urinals.
++ Shelve Bar Glasses.
++ Put dishes in strainer away.
++ Wash dishes that have been soaking overnight.
++ Pick up trash, clean table and chairs.
++ Stock pop, beer, liquor, and mixers.
++ Inventory pop and add to "Meijer's" weekly list.
++ Inventory mixers and add to "Gordon's" weekly list.
++ Cut lemon and lime if needed.
++ Count Keno drawer, cash register drawer, pull tab drawer, and bank bag.
++ Sign On Keno Machine. (See code under the drawer.)
++ "Start the Day" on the cash register. (one cash no sale).
++ Turn on "Open" signs.
++ Unlock porch.
++ Weigh out and bag portions of food.
++ Inventory food and add needed items to "Gordon's" and/or "Meijer's"weekly list.
++ Turn on Fryer and Hood fan.
+
+*** Closing
++ Turn off Fryer and Hood fan.
++ Turn off Oven and Grill and clean.
++ Do pickup around bar. Combine trash.
++ Do bar dishes.
++ Put away bar supplies. Dump open pop.
++ Stock Pop and canned beer.
++ Wipe down taps and sinks.
++ Wipe down tables, bar counter and chairs.
++ Vacuum carpet.
++ Turn off Open signs / replace with Closed.
++ Close all freezer and refrigerator doors.
++ Note any low supplies. Stock Kitchen supplies per prep list.
++ Do dishes in kitchen.
++ Collect food trash.
++ Clean Kitchen Surfaces.
++ Sweep and mop kitchen.
++ Clean toilets / urinals.
++ Clean sinks and mirrors.
++ Check toilet paper, soap, paper towels
++ Collect All Trash and take out to dumpster.
++ Count and record bank bag.
++ Count and record pull tab drawer.
++ Run Keno report for today.
++ Count and record Keno drawer. Paperclip winning tickets, Keno report, and money. Place bundle in drawer.
++ Run cash register reports. (See codes under drawer.)
++ Count and record cash register drawer.
++ Put today's take into the Day Bag. Paperclip report, money, and take sheet. Place bundle in Day Bag.
++ Place money bags in safe inside the lock box.
++ Place money drawers in safe along with The Daily and The Weekly.
++ Close and lock safe. Scramble combination.
++ Turn off Keno boards and TV.
++ Lock Porch.
++ Turn off lights.
++ Arm alarm and exit building.
+
+** Weekly Procedures
+
+*** Maintenance
+
+*** Gordon's Food Service
+
+*** Alliance Beverage
+
+
+* Menu
+** Daily
+|-------------------------+-------|
+| Grilled Cheese          | $2.00 |
+| Grilled Cheese w/ meat  | $4.00 |
+| Sub                     | $6.00 |
+| Boneless Wings          | $5.00 |
+| Hot Dog                 | $2.50 |
+| Coney Dog               | $3.00 |
+| Fish Sandwich           | $4.50 |
+| Chicken Strips          | $5.25 |
+| Chicken Sandwich        | $4.50 |
+| Wing Dings              | $4.75 |
+| Popcorn Chicken         | $4.25 |
+| Cheese Sticks           | $4.00 |
+| Pizzables               | $4.25 |
+| Mushrooms               | $4.50 |
+| Cauliflower             | $4.50 |
+| Onion Rings             | $3.00 |
+| French Fries            | $2.50 |
+| Curly Fries             | $2.50 |
+| Tater Tots              | $2.50 |
+| Philly Steak            | $5.00 |
+| Hamburger               | $4.00 |
+| Hamburger w/ cheese     | $4.50 |
+| Dbl Hamburger           | $6.00 |
+| Dbl Hamburger w/ cheese | $6.50 |
+|-------------------------+-------|
+
+** Weekend Breakfast
+
+** Wednesday Mexican
+
+** Friday Fish Fry
+
+
+* Drinks
+
+** Draft Beer
+
+** Canned or Bottled Beer
+
+** Liquor
+
+** Non-alcoholic

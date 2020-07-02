@@ -1,0 +1,224 @@
+\documentclass{tufte-handout}
+
+\title{Lake Eagles BOT Notebook}
+\author[BOT]{Lake Eagles BOT}
+\date{Fall 2019} 
+
+%\geometry{showframe} % display margins for debugging page layout
+
+%\input{fitch.sty}
+
+\usepackage{graphicx} % allow embedded images
+  \setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+%  \graphicspath{{graphics/}} % set of paths to search for images
+\usepackage{amsmath}  % extended mathematics
+\usepackage{booktabs} % book-quality tables
+\usepackage{units}    % non-stacked fractions and better unit spacing
+\usepackage{multicol} % multiple column layout facilities
+\usepackage{lipsum}   % filler text
+\usepackage{fancyvrb} % extended verbatim environments
+  \fvset{fontsize=\normalsize}% default font size for fancy-verbatim environments
+\usepackage{enumitem}
+
+% \DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74} -- strict conditional
+
+\usepackage{tikz}
+\usetikzlibrary{graphs}
+
+% Standardize command font styles and environments
+\newcommand{\doccmd}[1]{\texttt{\textbackslash#1}}% command name -- adds backslash automatically
+\newcommand{\docopt}[1]{\ensuremath{\langle}\textrm{\textit{#1}}\ensuremath{\rangle}}% optional command argument
+\newcommand{\docarg}[1]{\textrm{\textit{#1}}}% (required) command argument
+\newcommand{\docenv}[1]{\textsf{#1}}% environment name
+\newcommand{\docpkg}[1]{\texttt{#1}}% package name
+\newcommand{\doccls}[1]{\texttt{#1}}% document class name
+\newcommand{\docclsopt}[1]{\texttt{#1}}% document class option name
+\newenvironment{docspec}{\begin{quote}\noindent}{\end{quote}}% command specification environment
+
+\begin{document}
+
+\maketitle
+
+\begin{marginfigure}%
+  \includegraphics[width=\linewidth]{Lake_Aerie_3761}
+ % \caption{989.544.3761}
+ % \label{fig:marginfig}
+\end{marginfigure}
+
+\begin{abstract}
+
+\end{abstract}
+
+\section{Operations}
+
+\subsection{Daily Procedures}
+\begin{center}
+\textsc{Opening}
+\end{center}
+
+\begin{fullwidth}
+
+\begin{itemize}
+\item Unlock main entrance and disarm alarm.
+\item Turn on lights and \textsc{Keno} monitors.
+\item Check bathroom paper towels, toilet paper and trash.
+\item Fill ice caddie at bar and add ice to urinals.
+\item Shelve bar glasses.
+\item Put dishes in strainer away.
+\item Wash dishes that have been soaking overnight.
+\item Pick up trash, clean table and chairs.
+\item Stock pop, beer, liquor, and mixers.
+\item Inventory pop and add to \textsc{Meijer's} weekly list.
+\item Inventory mixers and add to \textsc{Gordon's} weekly list.
+\item Cut lemon and lime if needed.
+\item Count \textsc{Keno} drawer, cash register drawer, pull tab drawer, and bank bag.
+\item Sign On \textsc{Keno} machine. (See code under the drawer.)
+\item "Start the Day" on the cash register. (one cash no sale).
+\item Turn on "Open" signs.
+\item Unlock porch.
+\item Weigh out and bag portions of food.
+\item Inventory food and add needed items to \textsc{Gordon's} and/or \textsc{Meijer's} weekly list.
+\item Turn on Fryer and Hood fan.
+\end{itemize}
+\end{fullwidth}
+
+\begin{center}
+\textsc{Service}
+\end{center}
+
+\textbf{Bar}
+
+\begin{tabular}{ c c c}
+\hline
+Draft & & \\
+& Busch Light & Budweiser \\
+& Miller Lite  & Bud Light \\
+\hline
+\end{tabular}
+
+\textbf{Kitchen}
+
+\textbf{Keno}
+
+\textbf{Pull Tabs}
+
+\begin{center}
+\textsc{Closing}
+\end{center}
+\begin{itemize}
+\item Turn off Fryer and Hood fan.
+\item Turn off Oven and Grill and clean.
+\item Do pickup around bar. Combine trash.
+\item Do bar dishes.
+\item Put away bar supplies. Dump open pop.
+\item Stock Pop and canned beer.
+\item Wipe down taps and sinks.
+\item Wipe down tables, bar counter and chairs.
+\item Vacuum carpet.
+\item Turn off Open signs / replace with Closed.
+\item Close all freezer and refrigerator doors.
+\item Note any low supplies. Stock Kitchen supplies per prep list.
+\item Do dishes in kitchen.
+\item Collect food trash.
+\item Clean Kitchen Surfaces.
+\item Sweep and mop kitchen.
+\item Clean toilets / urinals.
+\item Clean sinks and mirrors.
+\item Check toilet paper, soap, paper towels
+\item Collect All Trash and take out to dumpster.
+\item Count and record bank bag.
+\item Count and record pull tab drawer.
+\item Run Keno report for today.
+\item Count and record Keno drawer. Paperclip winning tickets, Keno report, and money. Place bundle in drawer.
+\item Run cash register reports. (See codes under drawer.)
+\item Count and record cash register drawer.
+\item Put today's take into the Day Bag. Paperclip report, money, and take sheet. Place bundle in Day Bag.
+\item Place money bags in safe inside the lock box.
+\item Place money drawers in safe along with The Daily and The Weekly.
+\item Close and lock safe. Scramble combination.
+\item Turn off Keno boards and TV.
+\item Lock Porch.
+\item Turn off lights.
+\item Arm alarm and exit building.
+\end{itemize}
+
+\section{Weekly Specials}
+\subsection{\textsc{Mondays}}
+Burger Night. 50\textcent \ off all burgers.
+
+\begin{fullwidth}
+
+\subsection{\textsc{Tuesdays}}
+Salisbury steak and mashed potatoes, with cole slaw or cottage cheese. \$7.50
+
+\subsection{\textsc{Wednesdays}}
+Mexican Night
+\begin{itemize}
+\item \textbf{Tacos} --- \$1.50 each. Hard or soft shell.
+\item \textbf{Wet Burrito} --- \$7.00
+\item \textbf{Nachos} --- \$3.50
+\item \textbf{Taco Salad} --- \$7.00 Served in an edible bowl.
+\end{itemize}
+
+\subsection{\textsc{Thursdays}}
+Chili dog special. \$3.00 each.
+
+\subsection{\textsc{Fridays}}
+Fish Fry
+\begin{itemize}
+\item \textbf{Cod Dinner} --- \$9.00
+\item \textbf{All you can eat Cod} --- \$11.00
+\item \textbf{Walleye Dinner} --- \$X.XX
+\item \textbf{Shrimp Dinner} --- \$X.XX
+\item \textbf{Combo} --- \$X.XX
+\item \textbf{Platter} --- \$X.XX
+\end{itemize}
+
+\subsection{\textsc{Saturdays}}
+
+Soup and Sandwiches. \$3.00
+
+\end{fullwidth}
+
+\section{Daily Menu}
+\begin{center}
+\begin{tabular}{ll}
+\hline
+ENTRIES & \\
+\hline
+Grilled Cheese & \$2.00\\
+Grilled Cheese w/ ham & \$4.00\\
+Hot Dog & \$2.50\\
+Coney Dog & \$3.00\\
+Fish Sandwich & \$4.50\\
+Chicken Strips & \$5.25\\
+Chicken Sandwich & \$4.50\\
+Wing Dings & \$4.75\\
+Popcorn Chicken & \$4.25\\
+Hamburger & \$4.00\\
+Hamburger w/ cheese & \$4.50\\
+Dbl Hamburger & \$6.00\\
+Dbl Hamburger w/ cheese & \$6.50\\
+Philly Steak & \$5.00\\
+Sub Sandwich & \$6.00\\
+Boneless Wings & \$5.00\\
+\hline
+SIDES & \\
+\hline
+Cheese Sticks & \$4.00\\
+Pizzables & \$4.25\\
+Mushrooms & \$4.50\\
+Cauliflower & \$4.50\\
+Onion Rings & \$3.00\\
+French Fries & \$2.50\\
+Curly Fries & \$2.50\\
+Tater Tots & \$2.50\\
+\hline
+\end{tabular}
+\end{center}
+
+
+\section{Beverages}
+
+
+\end{document}

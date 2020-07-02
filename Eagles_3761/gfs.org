@@ -1,0 +1,22 @@
+#+TITLE: 3761 Eagle Kitchen Inventory
+#+AUTHOR: BOT
+#+DATE: November 2019
+
+* Appetizers, Soups, Entrees and Sides
+* Bakery Products
+* Beef
+* Beverages
+* Commercial Kitchen Cleaning and Chemical Supplies
+* Commercial Kitchen and Supplies
+* Dairy and Egg Products
+* Dining Supplies
+* Disposables
+* Fruits and Vegetables
+* Grocery Products
+* Pork
+* Poultry
+* Sausages and Hot Dogs
+* Seafood
+* Specialty Diet Products
+* Specialty Meats
+

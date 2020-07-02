@@ -1,0 +1,29 @@
+  Grilled Cheese            $2.00
+  Grilled Cheese w/ ham     $4.00
+  Hot Dog                   $2.50
+  Coney Dog                 $3.00
+  Fish Sandwich             $4.50
+  Chicken Strips            $5.25
+  Chicken Sandwich          $4.50
+  Wing Dings                $4.75
+  Popcorn Chicken           $4.25
+  Hamburger                 $4.00
+  Hamburger w/ cheese       $4.50
+  Dbl Hamburger             $6.00
+  Dbl Hamburger w/ cheese   $6.50
+  Philly Steak              $5.00
+  Sub Sandwich              $6.00
+  Boneless Wings            $5.00
+  SIDES                     
+  Cheese Sticks             $4.00
+  Pizzables                 $4.25
+  Mushrooms                 $4.50
+  Cauliflower               $4.50
+  Onion Rings               $3.00
+  French Fries              $2.50
+  Curly Fries               $2.50
+  Tater Tots                $2.50
+
+
+
+BEVERAGES
